@@ -1,0 +1,4 @@
+# Header navigation links for the website.
+main:
+  - title: "Publications"
+    url: /publications/
